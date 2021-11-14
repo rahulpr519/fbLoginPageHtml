@@ -1,0 +1,114 @@
+.header{
+    width: 100%;
+    height: 80px;
+    background: #3b5998;
+}
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    width: 50%;
+    height: 75px;
+    padding-top: 30px;
+    float: left;
+}
+.login{
+    width: 50%;
+    height: 75px;
+    float: left;
+   
+}
+.logo-text{
+    color: #fff;
+    font-size: 33px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 165px;
+}
+.login-label{
+    color: #fff;
+    font-size: 12px;
+}
+.login-controls{
+    margin-left: 115px;
+}
+.forgotten{
+    color: #9cb4d8;
+    font-size: 12px;
+    text-decoration: none;
+}
+.sub-btn{
+    background: #4267b2;
+    color: #fff;
+    height: 25px;
+    border-color: #29487d;
+    cursor: pointer;
+}
+.sub-btn:hover{
+    background: lightgrey;
+}
+.left-section{
+    width: 50%;
+    padding-left: 134px;
+    padding-top: 52px;
+    float: left;
+
+}
+.right-section{
+    width: 30%;
+    float: left;
+}
+.main-body{
+    width: 100%;
+    height: 580px;
+    background: linear-gradient(#fff, #D3D8E8);
+}
+.image{
+    width: 75%;
+    opacity: 0.75;
+}
+.para{
+    font-weight: bold;
+    font-size: 21px;
+}
+.section1{
+    float: left;
+    width: 175px;
+    color: #7f776d;
+    font-weight: 500;opacity: 0.8;
+}
+.section2{
+    float: left;
+    margin-left: 15px;
+    width: 175px;
+    color: #7f776d;
+    font-weight: 500;opacity: 0.8;
+}
+.adress{
+    float: left;
+    width: 76%;
+    margin-top: 20px;
+    color: #7f776d;
+    font-weight: 500;opacity: 0.8;
+}
+.Gender{
+    float: left;
+    width: 76%;
+    margin-top: 10px;
+    color: #7f776d;
+    font-weight: 500;opacity: 0.8;
+}
+.button{
+    float: left;
+    background: green;
+    color: #fff;
+    font-size: 14px;
+    width: 143px;
+    border-radius: 3px;
+    border-left: none;
+    border-right: none;
+    height: 27px;
+    margin-top: 15px;
+}
